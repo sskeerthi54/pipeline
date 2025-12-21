@@ -1,0 +1,9 @@
+# Python cache 
+__pycatch__/
+*.pyc
+
+#Environment variables
+.env
+
+#Editor settings
+.vscode/
