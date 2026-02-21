@@ -1,5 +1,0 @@
-learn why indexing
-why opensearch
-how to indexing
-when we need indexing
-difference between database and opensearch indexing
